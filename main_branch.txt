@@ -1,2 +1,0 @@
-main branch
-this is text from repository 
